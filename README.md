@@ -3,9 +3,6 @@
 ### Project Overview
 Assignment-5 is a responsive website built using HTML, CSS, and JavaScript. It demonstrates various frontend UI components including a navbar, footer, content sections, and modern styling techniques. This project is mainly created to practice and showcase frontend design and development skills.
 
-### Screenshot
-![Assignment-5 Screenshot](https://imgur.com/DUGfyIG)  
-
 
 ### Technologies Used
 - HTML5
