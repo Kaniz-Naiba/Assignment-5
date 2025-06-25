@@ -5,7 +5,7 @@ Assignment-5 is a responsive website built using HTML, CSS, and JavaScript. It d
 
 ### Screenshot
 ![Assignment-5 Screenshot](https://imgur.com/DUGfyIG)  
-*(Replace this URL with your actual screenshot link)*
+
 
 ### Technologies Used
 - HTML5
